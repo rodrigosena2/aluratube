@@ -90,6 +90,7 @@ function Timeline(propriedades) {
                     console.log(videos);
                     return (
                         <section>
+                            <hr></hr>
                             <h2>{playlistName}</h2>
                             <div>
                                 {videos.map((video) => {
