@@ -69,7 +69,7 @@ function Header() {
                         {config.name}
                     </h2>
                     <p>
-                        {config.job}
+                        {config.description}
                     </p>
                 </div>
             </section>
